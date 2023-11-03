@@ -1,5 +1,5 @@
-#include <efi/efi.h>
-#include <efi/efilib.h>
+#include <efi.h>
+#include <efilib.h>
 
 EFI_STATUS
 efi_main(

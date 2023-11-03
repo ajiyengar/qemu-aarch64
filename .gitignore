@@ -1,0 +1,7 @@
+*.bak
+*.log
+.gdb_history
+gdb.txt
+tools
+cscope*
+tags
