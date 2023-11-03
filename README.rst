@@ -11,7 +11,8 @@ gnu-efi.mk
 
 Instructions
 ------------
+
 1. Sync with ``sync.sh``
 1. Build with ``build.sh``
-1. Use AARCH64 QEMU to execute the demo app in UEFI Shell -- see ``ajiyengar/qemu-edk2-sdboot`` repo and add it to ``VirtualDrive`` folder
+1. Use AARCH64 QEMU to execute the demo app in UEFI Shell -- see ``ajiyengar/qemu-edk2-sdboot`` repo and add it to ``VirtualDrive`` folder.
 

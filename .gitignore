@@ -1,5 +1,8 @@
+*.o
+*.so
 *.bak
 *.log
+*.efi
 .gdb_history
 gdb.txt
 tools
